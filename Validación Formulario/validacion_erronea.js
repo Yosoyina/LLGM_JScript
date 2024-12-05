@@ -25,5 +25,5 @@ function validarFormulario2() {
 
     mensaje.innerText = "Formulario enviado correctamente.";
     mensaje.style.color = "green";
-    return false;
+    return true;
 }
